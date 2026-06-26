@@ -1,4 +1,4 @@
-# 🪙 ChitMaster Pro — Offline Chit Fund Management
+# 🪙 ChitMaster  — Offline Chit Fund Management
 
 A production-ready, offline-first mobile application engineered in Flutter & Dart, using Riverpod, GoRouter, and Hive. Built as a premium, secure, and intuitive fintech tool designed specifically for local chit fund administrators to manage groups, automate installment schedules, and execute bidding auctions safely offline.
 
