@@ -1,0 +1,6 @@
+{
+  "name": "ChitMaster Pro",
+  "description": "An offline-first, production-ready platform to manage traditional chit funds, run bidding draws, distribute dividends, and track contributor schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
